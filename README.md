@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Ezra Nyabuti
+👋 -**Hello, I'm Ezra Nyabuti**-
 
 I’m an aspiring Software Engineer / Data Engineer passionate about building scalable and efficient data solutions. My background in IT Field Service Engineering in the medical field has equipped me with hands-on experience in software upgrades, preventive maintenance, and system optimization.
 
