@@ -39,6 +39,9 @@ LinkedIn: Ezra Nyabuti
 
 ![image](https://github.com/user-attachments/assets/6971afe5-c6ca-49ed-bea7-a138a287559a)
 
+![image](https://github.com/user-attachments/assets/c69331ab-9138-4cd0-bc49-583bfa122da8)
+
+
 *Note: I used chatGPT for better visual layout and better documentation/grammer.*
 <!---
 enyabuti/enyabuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
