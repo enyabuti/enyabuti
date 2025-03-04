@@ -31,7 +31,7 @@ GitHub: EzraNyabuti
 
 LinkedIn: Ezra Nyabuti
 
-Note: I used chatGPT for better visual layout and better documentation/grammer.
+          * ## Note: I used chatGPT for better visual layout and better documentation/grammer. *
 <!---
 enyabuti/enyabuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
