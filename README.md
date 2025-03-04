@@ -22,11 +22,15 @@ AI-Powered Job Board Scraper – Automated system that scrapes job listings and 
 Data-Driven Newsletter (AI Pulse) – AI-researched newsletter on emerging AI trends
 
 ## 🎵 Hobbies & Interests
-🎤 Concerts: I love experiencing live music and attending concerts.
-🎶 Music: Amapiano & slow Afrobeats are my go-to genres.
-✈️ Traveling: Exploring new places and cultures excites me.
-🌍 Fun Fact: I can speak three languages fluently!
+🎤 Concerts: I love experiencing live music and attending concerts. (Afronation concert...)
 
+🎶 Music: Amapiano & slow Afrobeats are my go-to genres. (I like Rema.)
+
+✈️ Traveling: Exploring new places and cultures excites me. (Nairobi is my favourite travel destination)
+
+🌍 Fun Fact: I can speak three languages fluently! (English, Swahili, Kisii).
+
+I used to love playing video games but i grew out of it
 
 ## 📫 Connect with Me
 GitHub: EzraNyabuti
