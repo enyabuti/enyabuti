@@ -19,13 +19,19 @@ AI-Powered Job Board Scraper – Automated system that scrapes job listings and 
 
 Data-Driven Newsletter (AI Pulse) – AI-researched newsletter on emerging AI trends
 
+## 🎵 Hobbies & Interests
+🎤 Concerts: I love experiencing live music and attending concerts.
+🎶 Music: Amapiano & slow Afrobeats are my go-to genres.
+✈️ Traveling: Exploring new places and cultures excites me.
+🌍 Fun Fact: I can speak three languages fluently!
+
 
 ## 📫 Connect with Me
 GitHub: EzraNyabuti
 
 LinkedIn: Ezra Nyabuti
 
-
+Note: I used chatGPT for better visual layout and better documentation/grammer.
 <!---
 enyabuti/enyabuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
