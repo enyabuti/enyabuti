@@ -8,8 +8,10 @@ I am currently focused on refining my data engineering skills by building automa
 I am seeking opportunities as a Data Engineer where I can contribute to data-driven solutions and grow in a collaborative environment. I am particularly interested in cloud technologies, real-time data processing, and AI-driven automation. My goal is to bridge the gap between software development and data engineering, creating efficient and scalable systems that drive business insights.
 
 🎓 Education: Bachelor’s in Computer Science (Class of 2023)
-💡 Interests: Data Engineering, Cloud Computing (AWS), ETL Pipelines, AI & Automation
-🔍 Currently Seeking: Data Engineering roles
+
+💡 Interests: Software Engineering, Data Engineering, Cloud Computing (AWS), ETL Pipelines, AI & Automation
+
+🔍 Currently Seeking: Software Engineering and Data Engineering roles
 
 ## 🛠️ Technical Experience
 I have minimal experience with Python, SQL, AWS, and ETL Pipelines, but I am actively learning and working on projects to strengthen my skills.
