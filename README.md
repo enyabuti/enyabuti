@@ -1,6 +1,11 @@
 # 👋 **Hello, I'm Ezra Nyabuti**
 
-I’m an aspiring Software Engineer / Data Engineer passionate about building scalable and efficient data solutions. My background in IT Field Service Engineering in the medical field has equipped me with hands-on experience in software upgrades, preventive maintenance, and system optimization.
+I’m an aspiring Software Engineer / Data Engineer passionate about data, automation, and building scalable solutions. With a background in IT Field Service Engineering, I have hands-on experience working in the medical technology sector, where I specialized in software upgrades, preventative maintenance, and troubleshooting complex systems.
+
+I am currently focused on refining my data engineering skills by building automated data pipelines and exploring cloud-based solutions. Additionally, I am developing a deeper understanding of big data technologies, database optimization, and cloud infrastructure to enhance my technical proficiency.
+
+## 🚀 Career Goals
+I am seeking opportunities as a Data Engineer where I can contribute to data-driven solutions and grow in a collaborative environment. I am particularly interested in cloud technologies, real-time data processing, and AI-driven automation. My goal is to bridge the gap between software development and data engineering, creating efficient and scalable systems that drive business insights.
 
 🎓 Education: Bachelor’s in Computer Science (Class of 2023)
 💡 Interests: Data Engineering, Cloud Computing (AWS), ETL Pipelines, AI & Automation
