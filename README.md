@@ -28,8 +28,8 @@ Data-Driven Newsletter (AI Pulse) – AI-researched newsletter on emerging AI tr
 
 ## 📫 Connect with Me
 GitHub: EzraNyabuti
-
 LinkedIn: Ezra Nyabuti
+
 ![image](https://github.com/user-attachments/assets/6971afe5-c6ca-49ed-bea7-a138a287559a)
 *Note: I used chatGPT for better visual layout and better documentation/grammer.*
 <!---
