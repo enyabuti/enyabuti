@@ -5,13 +5,13 @@ I’m an aspiring Software Engineer / Data Engineer passionate about data, autom
 I am currently focused on refining my data engineering skills by building automated data pipelines and exploring cloud-based solutions. Additionally, I am developing a deeper understanding of big data technologies, database optimization, and cloud infrastructure to enhance my technical proficiency.
 
 ## 🚀 Career Goals
-I am seeking opportunities as a Data Engineer where I can contribute to data-driven solutions and grow in a collaborative environment. I am particularly interested in cloud technologies, real-time data processing, and AI-driven automation. My goal is to bridge the gap between software development and data engineering, creating efficient and scalable systems that drive business insights.
+I am seeking opportunities as a Software Engineer where I can contribute to data-driven solutions and grow in a collaborative environment. I am particularly interested in cloud technologies, back-end development, real-time data processing, and AI-driven automation. My goal is to bridge the gap between software development and data engineering, creating efficient and scalable systems that drive business insights.
 
 🎓 Education: Bachelor’s in Computer Science (Class of 2023)
 
-💡 Interests: Software Engineering, Data Engineering, Cloud Computing (AWS), ETL Pipelines, AI & Automation
+Interests: Software Engineering, Data Engineering, Cloud Computing (AWS), ETL Pipelines, AI & Automation
 
-🔍 Currently Seeking: Software Engineering and Data Engineering roles
+Currently Seeking: Software Engineering and Data Engineering roles
 
 ## 🛠️ Technical Experience
 I have minimal experience with Python, SQL, AWS, and ETL Pipelines, but I am actively learning and working on projects to strengthen my skills.
@@ -19,7 +19,6 @@ I have minimal experience with Python, SQL, AWS, and ETL Pipelines, but I am act
 ## 📂 Projects
 AI-Powered Job Board Scraper – Automated system that scrapes job listings and stores them in a SQL database
 
-Data-Driven Newsletter (AI Pulse) – AI-researched newsletter on emerging AI trends
 
 ## 🎵 Hobbies & Interests
 🎤 Concerts: I love experiencing live music and attending concerts. (Afronation concert...)
