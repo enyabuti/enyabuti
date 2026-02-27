@@ -36,12 +36,5 @@ GitHub: EzraNyabuti
 
 LinkedIn: www.linkedin.com/in/ezranyabuti
 
-![image](https://github.com/user-attachments/assets/6971afe5-c6ca-49ed-bea7-a138a287559a)
 
 
-
-*Note: I used chatGPT for better visual layout and better documentation/grammer.*
-<!---
-enyabuti/enyabuti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
